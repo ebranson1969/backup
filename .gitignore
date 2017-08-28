@@ -2,3 +2,4 @@
 /backup/*.iml
 /periodicbackups/target
 /periodicbackups/*.iml
+/.idea
