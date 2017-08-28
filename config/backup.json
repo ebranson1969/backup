@@ -1,0 +1,86 @@
+{
+  "backupTargetDirectory" : "G:/Minecraft/backups",
+  "backupSourceDirectory" : "C:/Users/ebranson1969/AppData/Roaming/.minecraftServer_forge-1.12-14.21.1.2415",
+  "folderToBackup" : "A Better Survival Server",
+  "count" : 0,
+  "periods" : [ {
+    "periodType" : "START",
+    "takeBackup" : true,
+    "howManyToKeep" : 28,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "TWENTYFOURHOURS",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "TWELVEHOURS",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "EIGHTHOURS",
+    "takeBackup" : true,
+    "howManyToKeep" : 24,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "FOURHOURS",
+    "takeBackup" : true,
+    "howManyToKeep" : 12,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "TWOHOURS",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "HOURLY",
+    "takeBackup" : true,
+    "howManyToKeep" : 48,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "QUARTERHOUR",
+    "takeBackup" : true,
+    "howManyToKeep" : 24,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "TENMINUTES",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "FIVEMINUTES",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "TWOMINUTE30SECONDS",
+    "takeBackup" : true,
+    "howManyToKeep" : 48,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "MINUTE",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  }, {
+    "periodType" : "THIRTYSECONDS",
+    "takeBackup" : false,
+    "howManyToKeep" : 0,
+    "countOfBackupType" : 0,
+    "lastBackup" : 0
+  } ],
+  "backups" : null
+}
