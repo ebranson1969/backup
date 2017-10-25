@@ -32,6 +32,7 @@ public class Main {
                 File kill = new File("kill");
                 if(kill.exists()) {
                     kill.delete();
+                    System.out.println("kill file found");
                     break;
                 }
             }
@@ -40,5 +41,7 @@ public class Main {
         {
             System.out.println(ex.toString());
         }
+
+        System.out.println("Backup session ended");
     }
 }
