@@ -152,6 +152,13 @@ public class BackupConfiguration {
         return lastBackup;
     }
 
+    public void CleanBackupFile() {
+        while(backups.size() > 0 && backups.get(0).getArchives().size() == 0)
+        {
+            backups.remove(0);
+        }
+    }
+
     public void DeleteBackup(Period p) throws Exception
     {
         for(int i = 0; i < backups.size(); i++)

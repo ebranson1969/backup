@@ -13,6 +13,7 @@ public class Main {
         try {
             BackupJSON backupJSON = new BackupJSON();
             BackupConfiguration backupConfiguration = backupJSON.getBackupConfiguration();
+            backupConfiguration.CleanBackupFile();
             backupJSON.SaveBackupConfiguration();
 
             String lastBackup = backupConfiguration.AddStartBackup();

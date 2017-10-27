@@ -2,12 +2,12 @@
   "backupTargetDirectory" : "G:/Minecraft/backups",
   "backupSourceDirectory" : "C:/Users/ebranson1969/AppData/Roaming/.minecraftServer_forge-1.12-14.21.1.2415",
   "folderToBackup" : "A Better Survival Server",
-  "count" : 0,
+  "count" : 25492,
   "periods" : [ {
     "periodType" : "START",
     "takeBackup" : true,
     "howManyToKeep" : 28,
-    "countOfBackupType" : 0,
+    "countOfBackupType" : 28,
     "lastBackup" : 0
   }, {
     "periodType" : "TWENTYFOURHOURS",
@@ -25,14 +25,14 @@
     "periodType" : "EIGHTHOURS",
     "takeBackup" : true,
     "howManyToKeep" : 24,
-    "countOfBackupType" : 0,
-    "lastBackup" : 0
+    "countOfBackupType" : 24,
+    "lastBackup" : 1508995411
   }, {
     "periodType" : "FOURHOURS",
     "takeBackup" : true,
     "howManyToKeep" : 12,
-    "countOfBackupType" : 0,
-    "lastBackup" : 0
+    "countOfBackupType" : 12,
+    "lastBackup" : 1508981011
   }, {
     "periodType" : "TWOHOURS",
     "takeBackup" : false,
@@ -43,14 +43,14 @@
     "periodType" : "HOURLY",
     "takeBackup" : true,
     "howManyToKeep" : 48,
-    "countOfBackupType" : 0,
-    "lastBackup" : 0
+    "countOfBackupType" : 48,
+    "lastBackup" : 1508977411
   }, {
     "periodType" : "QUARTERHOUR",
     "takeBackup" : true,
     "howManyToKeep" : 24,
-    "countOfBackupType" : 0,
-    "lastBackup" : 0
+    "countOfBackupType" : 24,
+    "lastBackup" : 1508975611
   }, {
     "periodType" : "TENMINUTES",
     "takeBackup" : false,
@@ -67,8 +67,8 @@
     "periodType" : "TWOMINUTE30SECONDS",
     "takeBackup" : true,
     "howManyToKeep" : 48,
-    "countOfBackupType" : 0,
-    "lastBackup" : 0
+    "countOfBackupType" : 48,
+    "lastBackup" : 1508975011
   }, {
     "periodType" : "MINUTE",
     "takeBackup" : false,
@@ -82,5 +82,825 @@
     "countOfBackupType" : 0,
     "lastBackup" : 0
   } ],
-  "backups" : null
+  "backups" : [ {
+    "backupFolderName" : "20171002_14_40_00",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_17782.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/02 14:40:06"
+    } ]
+  }, {
+    "backupFolderName" : "20171002_21_18_58",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_17943.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/02 21:19:05"
+    } ]
+  }, {
+    "backupFolderName" : "20171004_19_30_17",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_19053.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/04 19:30:24"
+    } ]
+  }, {
+    "backupFolderName" : "20171004_21_11_54",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_19094.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/04 21:12:00"
+    } ]
+  }, {
+    "backupFolderName" : "20171006_19_13_52",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_20200.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/06 19:13:58"
+    } ]
+  }, {
+    "backupFolderName" : "20171013_16_34_52",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21644.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/13 16:35:00"
+    } ]
+  }, {
+    "backupFolderName" : "20171013_17_11_23",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21647.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/13 17:11:35"
+    } ]
+  }, {
+    "backupFolderName" : "20171014_19_26_23",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21744.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/14 19:26:41"
+    }, {
+      "backupName" : "A Better Survival Server_21745.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/14 19:26:49"
+    } ]
+  }, {
+    "backupFolderName" : "20171014_21_39_19",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21797.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/14 21:39:27"
+    } ]
+  }, {
+    "backupFolderName" : "20171014_22_18_28",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21814.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/14 22:18:36"
+    } ]
+  }, {
+    "backupFolderName" : "20171015_00_14_23",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21861.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/15 00:14:30"
+    } ]
+  }, {
+    "backupFolderName" : "20171015_18_33_45",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21863.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/15 18:33:53"
+    }, {
+      "backupName" : "A Better Survival Server_21864.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/15 18:34:01"
+    } ]
+  }, {
+    "backupFolderName" : "20171015_20_48_31",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21912.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/15 20:48:39"
+    } ]
+  }, {
+    "backupFolderName" : "20171015_20_49_08",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21914.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/15 20:49:16"
+    } ]
+  }, {
+    "backupFolderName" : "20171015_20_57_11",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21917.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/15 20:57:18"
+    } ]
+  }, {
+    "backupFolderName" : "20171016_19_32_19",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_21928.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/16 19:32:26"
+    }, {
+      "backupName" : "A Better Survival Server_21929.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/16 19:32:34"
+    }, {
+      "backupName" : "A Better Survival Server_22121.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/17 03:32:33"
+    }, {
+      "backupName" : "A Better Survival Server_22313.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/17 11:32:33"
+    }, {
+      "backupName" : "A Better Survival Server_22505.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/17 19:32:33"
+    }, {
+      "backupName" : "A Better Survival Server_22697.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/18 03:32:34"
+    }, {
+      "backupName" : "A Better Survival Server_22889.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/18 11:32:34"
+    } ]
+  }, {
+    "backupFolderName" : "20171018_19_22_57",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_23078.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/18 19:23:04"
+    }, {
+      "backupName" : "A Better Survival Server_23082.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/18 19:32:32"
+    } ]
+  }, {
+    "backupFolderName" : "20171019_18_32_36",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_23107.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/19 18:32:50"
+    }, {
+      "backupName" : "A Better Survival Server_23108.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/19 18:32:58"
+    }, {
+      "backupName" : "A Better Survival Server_23204.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/19 22:32:55"
+    }, {
+      "backupName" : "A Better Survival Server_23222.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/20 13:56:49"
+    }, {
+      "backupName" : "A Better Survival Server_23318.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/20 17:56:39"
+    } ]
+  }, {
+    "backupFolderName" : "20171020_19_45_31",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_23320.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/20 19:45:38"
+    }, {
+      "backupName" : "A Better Survival Server_23374.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/20 21:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_23470.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/21 01:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_23566.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/21 05:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_23662.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/21 09:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_23758.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/21 13:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_23854.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/21 17:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_23950.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/21 21:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_23974.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/21 22:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_23998.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/21 23:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24022.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 00:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24046.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/22 01:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24070.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 02:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24094.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 03:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24118.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 04:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24142.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/22 05:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24166.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 06:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24190.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 07:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24214.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 08:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24238.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/22 09:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24262.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 10:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24286.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 11:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24310.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 12:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24334.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/22 13:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24358.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 14:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24382.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 15:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_24406.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 16:56:40"
+    } ]
+  }, {
+    "backupFolderName" : "20171022_17_33_10",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_24421.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/22 17:33:18"
+    } ]
+  }, {
+    "backupFolderName" : "20171022_18_00_54",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_24425.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/22 18:01:01"
+    }, {
+      "backupName" : "A Better Survival Server_24426.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/22 18:01:09"
+    }, {
+      "backupName" : "A Better Survival Server_24450.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 19:01:09"
+    }, {
+      "backupName" : "A Better Survival Server_24474.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 20:01:12"
+    }, {
+      "backupName" : "A Better Survival Server_24498.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 21:01:12"
+    }, {
+      "backupName" : "A Better Survival Server_24521.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/22 21:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24545.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 22:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24569.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/22 23:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24593.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 00:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24617.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/23 01:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24641.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 02:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24665.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 03:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24689.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 04:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24713.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/23 05:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24737.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 06:56:43"
+    }, {
+      "backupName" : "A Better Survival Server_24761.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 07:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24785.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 08:56:42"
+    } ]
+  }, {
+    "backupFolderName" : "20171023_09_49_10",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_24805.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/23 09:49:17"
+    }, {
+      "backupName" : "A Better Survival Server_24809.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/23 09:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24833.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 10:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24857.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 11:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24881.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 12:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24905.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/23 13:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24929.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 14:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_24953.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 15:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_24977.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 16:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_25001.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/23 17:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25025.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 18:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_25049.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 19:56:40"
+    }, {
+      "backupName" : "A Better Survival Server_25073.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 20:56:43"
+    }, {
+      "backupName" : "A Better Survival Server_25097.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/23 21:56:43"
+    }, {
+      "backupName" : "A Better Survival Server_25121.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 22:56:42"
+    }, {
+      "backupName" : "A Better Survival Server_25145.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/23 23:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25169.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 00:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25193.zip",
+      "periodType" : "FOURHOURS",
+      "dateTime" : "2017/10/24 01:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25217.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 02:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25241.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 03:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25265.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 04:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25289.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/24 05:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25301.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 06:26:41"
+    }, {
+      "backupName" : "A Better Survival Server_25307.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 06:41:41"
+    }, {
+      "backupName" : "A Better Survival Server_25313.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 06:56:41"
+    }, {
+      "backupName" : "A Better Survival Server_25319.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 07:11:41"
+    }, {
+      "backupName" : "A Better Survival Server_25325.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 07:26:41"
+    }, {
+      "backupName" : "A Better Survival Server_25331.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 07:41:41"
+    } ]
+  }, {
+    "backupFolderName" : "20171024_17_47_40",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25336.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/24 17:47:48"
+    }, {
+      "backupName" : "A Better Survival Server_25337.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/24 17:47:56"
+    } ]
+  }, {
+    "backupFolderName" : "20171024_17_58_00",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25341.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/24 17:58:08"
+    }, {
+      "backupName" : "A Better Survival Server_25344.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 18:02:57"
+    } ]
+  }, {
+    "backupFolderName" : "20171024_18_12_44",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25348.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/24 18:12:53"
+    } ]
+  }, {
+    "backupFolderName" : "20171024_18_16_15",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25350.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/24 18:16:23"
+    }, {
+      "backupName" : "A Better Survival Server_25352.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 18:17:56"
+    }, {
+      "backupName" : "A Better Survival Server_25358.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 18:32:55"
+    }, {
+      "backupName" : "A Better Survival Server_25364.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 18:47:55"
+    }, {
+      "backupName" : "A Better Survival Server_25370.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 19:02:57"
+    }, {
+      "backupName" : "A Better Survival Server_25376.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 19:17:57"
+    }, {
+      "backupName" : "A Better Survival Server_25382.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 19:32:55"
+    }, {
+      "backupName" : "A Better Survival Server_25388.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 19:47:55"
+    }, {
+      "backupName" : "A Better Survival Server_25394.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 20:02:56"
+    }, {
+      "backupName" : "A Better Survival Server_25400.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 20:17:56"
+    }, {
+      "backupName" : "A Better Survival Server_25406.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 20:32:56"
+    }, {
+      "backupName" : "A Better Survival Server_25412.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/24 20:47:56"
+    }, {
+      "backupName" : "A Better Survival Server_25418.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 21:02:55"
+    } ]
+  }, {
+    "backupFolderName" : "20171024_21_13_04",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25422.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/24 21:13:12"
+    }, {
+      "backupName" : "A Better Survival Server_25425.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 21:17:55"
+    }, {
+      "backupName" : "A Better Survival Server_25431.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/24 21:32:55"
+    }, {
+      "backupName" : "A Better Survival Server_25433.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/24 21:37:55"
+    }, {
+      "backupName" : "A Better Survival Server_25434.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/24 21:40:25"
+    } ]
+  }, {
+    "backupFolderName" : "20171025_16_23_23",
+    "archives" : [ {
+      "backupName" : "A Better Survival Server_25435.zip",
+      "periodType" : "START",
+      "dateTime" : "2017/10/25 16:23:31"
+    }, {
+      "backupName" : "A Better Survival Server_25436.zip",
+      "periodType" : "EIGHTHOURS",
+      "dateTime" : "2017/10/25 16:23:39"
+    }, {
+      "backupName" : "A Better Survival Server_25437.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:26:09"
+    }, {
+      "backupName" : "A Better Survival Server_25438.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:28:39"
+    }, {
+      "backupName" : "A Better Survival Server_25439.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:31:08"
+    }, {
+      "backupName" : "A Better Survival Server_25440.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:33:40"
+    }, {
+      "backupName" : "A Better Survival Server_25441.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:36:09"
+    }, {
+      "backupName" : "A Better Survival Server_25442.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 16:38:38"
+    }, {
+      "backupName" : "A Better Survival Server_25443.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:41:08"
+    }, {
+      "backupName" : "A Better Survival Server_25444.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:43:38"
+    }, {
+      "backupName" : "A Better Survival Server_25445.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:46:10"
+    }, {
+      "backupName" : "A Better Survival Server_25446.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:48:39"
+    }, {
+      "backupName" : "A Better Survival Server_25447.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:51:09"
+    }, {
+      "backupName" : "A Better Survival Server_25448.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 16:53:38"
+    }, {
+      "backupName" : "A Better Survival Server_25449.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:56:09"
+    }, {
+      "backupName" : "A Better Survival Server_25450.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 16:58:38"
+    }, {
+      "backupName" : "A Better Survival Server_25451.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:01:09"
+    }, {
+      "backupName" : "A Better Survival Server_25452.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:03:39"
+    }, {
+      "backupName" : "A Better Survival Server_25453.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:06:08"
+    }, {
+      "backupName" : "A Better Survival Server_25454.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 17:08:39"
+    }, {
+      "backupName" : "A Better Survival Server_25455.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:11:09"
+    }, {
+      "backupName" : "A Better Survival Server_25456.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:13:39"
+    }, {
+      "backupName" : "A Better Survival Server_25457.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:16:08"
+    }, {
+      "backupName" : "A Better Survival Server_25458.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:18:39"
+    }, {
+      "backupName" : "A Better Survival Server_25459.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:21:08"
+    }, {
+      "backupName" : "A Better Survival Server_25460.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/25 17:23:39"
+    }, {
+      "backupName" : "A Better Survival Server_25461.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:26:09"
+    }, {
+      "backupName" : "A Better Survival Server_25462.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:28:38"
+    }, {
+      "backupName" : "A Better Survival Server_25463.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:31:09"
+    }, {
+      "backupName" : "A Better Survival Server_25464.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:33:38"
+    }, {
+      "backupName" : "A Better Survival Server_25465.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:36:08"
+    }, {
+      "backupName" : "A Better Survival Server_25466.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 17:38:39"
+    }, {
+      "backupName" : "A Better Survival Server_25467.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:41:09"
+    }, {
+      "backupName" : "A Better Survival Server_25468.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:43:39"
+    }, {
+      "backupName" : "A Better Survival Server_25469.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:46:09"
+    }, {
+      "backupName" : "A Better Survival Server_25470.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:48:39"
+    }, {
+      "backupName" : "A Better Survival Server_25471.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:51:08"
+    }, {
+      "backupName" : "A Better Survival Server_25472.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 17:53:39"
+    }, {
+      "backupName" : "A Better Survival Server_25473.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:56:12"
+    }, {
+      "backupName" : "A Better Survival Server_25474.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 17:58:41"
+    }, {
+      "backupName" : "A Better Survival Server_25475.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:01:12"
+    }, {
+      "backupName" : "A Better Survival Server_25476.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:03:40"
+    }, {
+      "backupName" : "A Better Survival Server_25477.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:06:10"
+    }, {
+      "backupName" : "A Better Survival Server_25478.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 18:08:41"
+    }, {
+      "backupName" : "A Better Survival Server_25479.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:11:11"
+    }, {
+      "backupName" : "A Better Survival Server_25480.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:13:40"
+    }, {
+      "backupName" : "A Better Survival Server_25481.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:16:10"
+    }, {
+      "backupName" : "A Better Survival Server_25482.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:18:39"
+    }, {
+      "backupName" : "A Better Survival Server_25483.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:21:10"
+    }, {
+      "backupName" : "A Better Survival Server_25484.zip",
+      "periodType" : "HOURLY",
+      "dateTime" : "2017/10/25 18:23:40"
+    }, {
+      "backupName" : "A Better Survival Server_25485.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:26:11"
+    }, {
+      "backupName" : "A Better Survival Server_25486.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:28:41"
+    }, {
+      "backupName" : "A Better Survival Server_25487.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:31:11"
+    }, {
+      "backupName" : "A Better Survival Server_25488.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:33:42"
+    }, {
+      "backupName" : "A Better Survival Server_25489.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:36:10"
+    }, {
+      "backupName" : "A Better Survival Server_25490.zip",
+      "periodType" : "QUARTERHOUR",
+      "dateTime" : "2017/10/25 18:38:40"
+    }, {
+      "backupName" : "A Better Survival Server_25491.zip",
+      "periodType" : "TWOMINUTE30SECONDS",
+      "dateTime" : "2017/10/25 18:41:11"
+    } ]
+  } ]
 }
