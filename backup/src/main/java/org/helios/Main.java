@@ -23,18 +23,23 @@ public class Main {
 
             int count = 0;
             while (true) {
-                lastBackup = backupConfiguration.AddBackup();
-                backupJSON.SaveBackupConfiguration();
-                if(lastBackup != null)
-                    System.out.println("Backup occured: " + lastBackup);
+                try {
+                    lastBackup = backupConfiguration.AddBackup();
+                    backupJSON.SaveBackupConfiguration();
+                    if (lastBackup != null)
+                        System.out.println("Backup occured: " + lastBackup);
 
-                //Thread.sleep(backupConfiguration.GetSleep() - 1000);
+                    //Thread.sleep(backupConfiguration.GetSleep() - 1000);
 
-                File kill = new File("kill");
-                if(kill.exists()) {
-                    kill.delete();
-                    System.out.println("kill file found");
-                    break;
+                    File kill = new File("kill");
+                    if (kill.exists()) {
+                        kill.delete();
+                        System.out.println("kill file found");
+                        break;
+                    }
+                }
+                catch(Exception ex) {
+                    System.out.println("Exception occured: " + ex.toString());
                 }
             }
         }
